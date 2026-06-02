@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[6775,["/josh-20260602-aruza-rebuild/_next/static/chunks/1k-5-lozrhflh.js","/josh-20260602-aruza-rebuild/_next/static/chunks/2ht5l4z8z1s7d.js"],"default"]
+3:I[83559,["/josh-20260602-aruza-rebuild/_next/static/chunks/1k-5-lozrhflh.js","/josh-20260602-aruza-rebuild/_next/static/chunks/2ht5l4z8z1s7d.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"Lr0GXdQT1kWZHubc8svYD"}
